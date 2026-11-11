@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+.venv/
+venv/
+__pycache__/
+.env
+.env.*
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.executed.ipynb
+.DS_Store
